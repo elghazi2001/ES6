@@ -1,0 +1,44 @@
+*{
+ margin: 0;
+ padding: 0;   
+ 
+}
+
+body 
+{
+    background-position: center;
+    background-size: auto;
+    background-image: url("images/1385574.jpg");
+}
+.navbartext{
+    font-size: 35px;
+}
+.logo{
+    padding-top: 25px;
+    padding-bottom: 20px;
+    
+}
+.navbar-brand{
+    color: rgb(40, 16, 16);
+    font-size: large;
+}
+.card-img-top{
+    width: 50px;
+    
+}
+.col{
+    padding: 35px;
+    margin-left: 50px;
+    padding-top: 150px;
+    
+}
+.nostri{
+    padding-left: 450px;
+    padding-top: 100px;
+}
+.card-body{
+    background-color: #4692c3;
+}
+.card{
+    border-color: black;
+}

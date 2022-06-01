@@ -1,0 +1,13 @@
+
+//content type to search for (movie,series,episode,game)
+Get http://www.omdbapi.com/?apikey=727b2afa&s=wallstreet HTTP/1.1
+
+###
+//movie id to search for ising (i parameter) (tt5223506) from above
+Get  http://www.omdbapi.com/?apikey=727b2afa&i=tt3569154 HTTP/1.1
+
+###
+
+// movie title to search for (s parameter)
+Get  http://www.omdbapi.com/?apikey=727b2afa&s=travel&type=movie HTTP/1.1
+
