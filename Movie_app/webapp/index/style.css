@@ -12,6 +12,7 @@ body
 }
 .navbartext{
     font-size: 35px;
+    margin: -50px;
 }
 .logo{
     padding-top: 25px;
@@ -34,11 +35,27 @@ body
 }
 .nostri{
     padding-left: 450px;
-    padding-top: 100px;
+    padding-top: 250px;
 }
 .card-body{
     background-color: #4692c3;
 }
 .card{
     border-color: black;
+}
+.col-md-4{
+    padding: 50px;
+}
+.prenota{
+    font-weight: 500;
+    color: beige;
+    padding-left: 420px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.form-control{
+    background-color: aqua;
+    margin: 50px;
+    margin-left: 50px;
+    padding-right: 50px;
 }
